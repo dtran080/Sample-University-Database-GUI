@@ -1,0 +1,10 @@
+C:\Users\Anh Hoang\Documents\C#Proj\Assignment9\Assignment9\bin\Debug\Assignment9.exe.config
+C:\Users\Anh Hoang\Documents\C#Proj\Assignment9\Assignment9\obj\Debug\Assignment9.csprojResolveAssemblyReference.cache
+C:\Users\Anh Hoang\Documents\C#Proj\Assignment9\Assignment9\obj\Debug\Assignment9.Form1.resources
+C:\Users\Anh Hoang\Documents\C#Proj\Assignment9\Assignment9\obj\Debug\Assignment9.Properties.Resources.resources
+C:\Users\Anh Hoang\Documents\C#Proj\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.GenerateResource.Cache
+C:\Users\Anh Hoang\Documents\C#Proj\Assignment9\Assignment9\bin\Debug\Assignment9.exe
+C:\Users\Anh Hoang\Documents\C#Proj\Assignment9\Assignment9\bin\Debug\Assignment9.pdb
+C:\Users\Anh Hoang\Documents\C#Proj\Assignment9\Assignment9\obj\Debug\Assignment9.exe
+C:\Users\Anh Hoang\Documents\C#Proj\Assignment9\Assignment9\obj\Debug\Assignment9.pdb
+C:\Users\Anh Hoang\Documents\C#Proj\Assignment9\Assignment9\obj\Debug\Assignment9.SearchStudentForm.resources
